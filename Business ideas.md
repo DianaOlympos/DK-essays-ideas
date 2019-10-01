@@ -1,0 +1,6 @@
+- orchestration tool (habitat but composable with package managers and "supervisor" systems)
+- Fugue but open source
+- Prolog like tool to produce nixOS config (or equivalent)
+- Control Tower for connected sextoy. Think Cubase for connected toys.
+  - a marketplace to exchange your work in previous idea. Work with users
+- a SaaS tool/marketplace for graphic artists. See Frame.io but for drawing. with versioning, approval, comments, etc
